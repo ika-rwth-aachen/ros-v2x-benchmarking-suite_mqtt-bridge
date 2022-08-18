@@ -23,6 +23,8 @@
   <exec_depend>python3-pymongo</exec_depend>
   <!--<exec_depend>python3-inject</exec_depend> -->
 
+  <depend>benchmarking_suite</depend>
+
   <export>
   </export>
 </package>
